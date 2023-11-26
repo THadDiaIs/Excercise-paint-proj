@@ -1,5 +1,5 @@
-$(document).ready(funce);
-function funce() {
+$(document).ready(draw);
+function draw() {
   // $('main').dialog({width:500,height:500});
   $('#red').click(()=>{
     $('.place').mousemove(()=>{
